@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938050166997-b743g6j4n2mppm5b83npfk6kfl0osijf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938050166997-b743g6j4n2mppm5b83npfk6kfl0osijf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYdBNi82Bbzk64u9FDowHoDaL-jMiMUL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938050166997</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.allensu.Hack-GT-8</string>
+	<key>PROJECT_ID</key>
+	<string>chain-the-passport</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chain-the-passport.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938050166997:ios:9bc0d112aec75c9512425c</string>
+</dict>
+</plist>

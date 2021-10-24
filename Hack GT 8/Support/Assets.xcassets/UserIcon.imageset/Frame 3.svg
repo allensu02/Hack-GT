@@ -1,0 +1,16 @@
+<svg width="194" height="194" viewBox="0 0 194 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="96.5911" cy="96.551" rx="96.5911" ry="96.551" fill="url(#paint0_linear_112:60)" fill-opacity="0.5"/>
+<mask id="mask0_112:60" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="194" height="194">
+<ellipse cx="96.5911" cy="96.551" rx="96.5911" ry="96.551" fill="white"/>
+</mask>
+<g mask="url(#mask0_112:60)">
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96.5274 110.942C80.4123 110.942 66.6504 113.379 66.6504 123.137C66.6504 132.895 80.325 135.419 96.5274 135.419C112.642 135.419 126.4 132.978 126.4 123.224C126.4 113.47 112.73 110.942 96.5274 110.942Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96.5274 97.0245C107.103 97.0245 115.674 88.4491 115.674 77.8737C115.674 67.2983 107.103 58.7268 96.5274 58.7268C85.952 58.7268 77.3766 67.2983 77.3766 77.8737C77.3409 88.4133 85.8567 96.9887 96.3925 97.0245H96.5274Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear_112:60" x1="159.591" y1="-9.29928e-07" x2="40.0911" y2="176.5" gradientUnits="userSpaceOnUse">
+<stop offset="0.0148914" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#C4C4C4"/>
+</linearGradient>
+</defs>
+</svg>
